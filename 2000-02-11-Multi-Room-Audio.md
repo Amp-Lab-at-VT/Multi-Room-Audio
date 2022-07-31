@@ -3,8 +3,8 @@ layout: project_template
 title: Multi Room Audio
 description: This project's goal is to create a system for streaming audio remotely over a network. 
 date: 2000-02-11 09:00:00
-hero_image: /web/img/Multi-Room-Audio/open_house.png
-image: /web/img/Multi-Room-Audio/open_house.png
+hero_image: /web/img/Multi-Room-Audio/Hero.png
+image: /web/img/Multi-Room-Audio/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
