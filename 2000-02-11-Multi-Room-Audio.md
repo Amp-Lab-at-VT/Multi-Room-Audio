@@ -19,7 +19,7 @@ show_sidebar: false
 Chandler Cain
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Multi-Room-Audio"" >Multi-Room-Audio</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Multi-Room-Audio" >Multi-Room-Audio</a>
 
 ## Photo
 
